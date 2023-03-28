@@ -1,0 +1,13 @@
+numpy
+interpret
+pandas
+scikit-learn
+mlxtend
+click
+yacs
+scikits.bootstrap
+tqdm
+matplotlib
+jupyter
+openpyxl
+pyod
